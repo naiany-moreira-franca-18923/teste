@@ -1,0 +1,8 @@
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\OperadoresDeAtribuicao\bin\Debug\OperadoresDeAtribuicao.exe.config
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\OperadoresDeAtribuicao\bin\Debug\OperadoresDeAtribuicao.exe
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\OperadoresDeAtribuicao\bin\Debug\OperadoresDeAtribuicao.pdb
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\OperadoresDeAtribuicao\obj\Debug\OperadoresDeAtribuicao.csproj.AssemblyReference.cache
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\OperadoresDeAtribuicao\obj\Debug\OperadoresDeAtribuicao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\OperadoresDeAtribuicao\obj\Debug\OperadoresDeAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\OperadoresDeAtribuicao\obj\Debug\OperadoresDeAtribuicao.exe
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\OperadoresDeAtribuicao\obj\Debug\OperadoresDeAtribuicao.pdb

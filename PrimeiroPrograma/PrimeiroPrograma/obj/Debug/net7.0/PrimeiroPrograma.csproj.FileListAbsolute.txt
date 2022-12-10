@@ -1,0 +1,15 @@
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net7.0\PrimeiroPrograma.exe
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net7.0\PrimeiroPrograma.deps.json
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net7.0\PrimeiroPrograma.runtimeconfig.json
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net7.0\PrimeiroPrograma.dll
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net7.0\PrimeiroPrograma.pdb
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net7.0\PrimeiroPrograma.csproj.AssemblyReference.cache
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net7.0\PrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net7.0\PrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net7.0\PrimeiroPrograma.AssemblyInfo.cs
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net7.0\PrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net7.0\PrimeiroPrograma.dll
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net7.0\refint\PrimeiroPrograma.dll
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net7.0\PrimeiroPrograma.pdb
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net7.0\PrimeiroPrograma.genruntimeconfig.cache
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net7.0\ref\PrimeiroPrograma.dll

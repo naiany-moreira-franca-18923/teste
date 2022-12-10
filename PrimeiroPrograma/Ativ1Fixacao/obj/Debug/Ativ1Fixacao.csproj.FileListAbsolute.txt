@@ -1,0 +1,8 @@
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\Ativ1Fixacao\bin\Debug\Ativ1Fixacao.exe.config
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\Ativ1Fixacao\bin\Debug\Ativ1Fixacao.exe
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\Ativ1Fixacao\bin\Debug\Ativ1Fixacao.pdb
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\Ativ1Fixacao\obj\Debug\Ativ1Fixacao.csproj.AssemblyReference.cache
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\Ativ1Fixacao\obj\Debug\Ativ1Fixacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\Ativ1Fixacao\obj\Debug\Ativ1Fixacao.csproj.CoreCompileInputs.cache
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\Ativ1Fixacao\obj\Debug\Ativ1Fixacao.exe
+C:\Users\Naiany M. França ^0^\Desktop\Aulas POO - Progranação\PrimeiroPrograma\Ativ1Fixacao\obj\Debug\Ativ1Fixacao.pdb
